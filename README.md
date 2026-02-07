@@ -1,6 +1,6 @@
 # Ei Thinzar Myo Portfolio
 
-Your personal developer portfolio powered by **React** and **Vite** — fast, modern, and easy to extend.
+A personal developer portfolio website showcasing my projects, skills, and experience, built with **React** and **Vite**.
 
 ---
 
@@ -24,7 +24,7 @@ It serves as a platform to showcase **projects**, **skills**, and **contact deta
 ## File Structure
 
 ```
-my-portfolio/
+EiThinzarMyo_Portfolio/
 ├── public/
 │   ├── index.html          # Entry HTML
 │   └── favicon.ico
