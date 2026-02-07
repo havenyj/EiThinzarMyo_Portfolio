@@ -75,13 +75,12 @@ If using **GitHub Pages**, configure the Pages source to your deploy branch (e.g
 
 ---
 
-## Customization Ideas
+## Features
 
-- Add social media links (GitHub, LinkedIn, Twitter)
-- Include project descriptions with live-demo links
-- Implement light/dark mode toggle
-- Use animations (e.g., smooth scrolling, entrance effects)
-- Enhance accessibility with proper aria attributes and keyboard navigation
+- Responsive personal portfolio website
+- Built with React + Vite
+- Showcases projects, skills, and contact information
+- Fast development and optimized build performance
 
 ---
 
