@@ -1,4 +1,4 @@
-# My Portfolio
+# Ei Thinzar Myo Portfolio
 
 Your personal developer portfolio powered by **React** and **Vite** — fast, modern, and easy to extend.
 
@@ -45,8 +45,8 @@ my-portfolio/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rchll-16/my-portfolio.git
-   cd my-portfolio
+   git clone https://github.com/havenyj/EiThinzarMyo_Portfolio.git
+   cd EiThinzarMyo_Portfolio
    ```
 
 2. **Install dependencies:**
