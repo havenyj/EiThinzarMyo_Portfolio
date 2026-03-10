@@ -47,15 +47,16 @@ export const PROJECTS: Project[] = [
     id: 'rockland',
     title: 'Rockland — Mobile Rock Discovery',
     role: 'Lead UI/UX Designer · System Designer · Frontend Developer',
-    duration: 'Oct 2025 - Present',
+    duration: 'Oct 2025 - March 2026',
     category: 'Mobile',
     image: rocklandImg,
     description: 'A mobile application designed to help users explore, identify, and learn about rocks through a structured and user-friendly experience.',
-    tools: ['Figma', 'Android Studio', 'Java', 'Firebase', 'Jira'],
+    tools: ['React', 'Vite', 'Figma', 'Android Studio', 'Java', 'Firebase', 'Jira'],
     details: [
       'Designed wireframes and high-fidelity UI screens in Figma',
-      'Created role-based user flows and dashboards',
-      'Implemented the Android frontend using Android Studio',
+      'Created role-based user flows and dashboards for both mobile and web',
+      'Implemented the Android mobile frontend using Android Studio',
+      'Developed a responsive web app for user/admin management using React + Vite, connected with Firebase',
       'Collaborated with the team using Agile workflows and Jira'
     ]
   },
